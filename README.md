@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @poppycasimir
 - 👀 I’m interested in NVC
+- see: https://www.nonviolenttech.org/
 
 <!---
 - 🌱 I’m currently learning ...
